@@ -8,3 +8,7 @@
 [TASK](http://ife.baidu.com/course/detail/id/92)
 [CODE](https://github.com/iaptx4869/ife/blob/gh-pages/xiaowei02.html)
 [DEMO](https://iaptx4869.github.io/ife/xiaowei02)
+### 任务三：三栏式布局
+[TASK](http://ife.baidu.com/course/detail/id/94)
+[CODE](https://github.com/iaptx4869/ife/blob/gh-pages/xiaowei03.html)
+[DEMO](https://iaptx4869.github.io/ife/xiaowei03)
